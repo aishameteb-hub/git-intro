@@ -1,1 +1,1 @@
-Message from feature branch
+This is the FEATURE branch message.
